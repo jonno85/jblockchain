@@ -1,2 +1,2 @@
 # jblockchain
-simple blockchain exaple from the book rust-for-blockchain
+simple blockchain example from the book rust-for-blockchain
